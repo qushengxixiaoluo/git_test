@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm')
     print_hi(2)
+    print(1)
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
